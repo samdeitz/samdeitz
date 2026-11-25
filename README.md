@@ -1,4 +1,4 @@
-<img width="2172" height="724" alt="ChatGPT Image Nov 25, 2026, 03_43_48 PM" src="https://github.com/user-attachments/assets/6f291154-689e-4d42-9afc-4c94fae15768" />
+<img width="2172" alt="Sam Deitz" src="https://github.com/user-attachments/assets/6f291154-689e-4d42-9afc-4c94fae15768" />
 
 # Hi, I'm Sam 👋
 
