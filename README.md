@@ -2,11 +2,13 @@
   <img src="https://github.com/user-attachments/assets/6f291154-689e-4d42-9afc-4c94fae15768" width="760" alt="Sam Deitz" />
 </p>
 
-### Full-Stack Developer · Computer Science @ Western University
+### Software Developer · Computer Science @ Western University
 
-I'm a Computer Science student and full-stack developer who enjoys building practical software, developer tools, and web applications.
+I'm a Computer Science student at Western University and a full-stack developer based in London, Ontario. I'm particularly interested in software engineering, systems, networking, and developer tools.
 
-I work across the stack, from frontend interfaces and backend architecture to authentication, analytics pipelines, and cloud infrastructure. Outside of that, I enjoy self-hosting and experimenting with Linux and developer tooling.
+I like taking projects beyond the prototype stage: designing the frontend, figuring out how the backend should work, and getting everything running on a real server. Outside of work and university, I run my own Linux home server, experiment with infrastructure, and build tools to solve problems I run into myself.
+
+A lot of my recent development work has been for clients and teams, so my public repositories only tell part of the story.
 
 <p align="left">
   <a href="https://samdeitz.ca"><strong>Portfolio</strong></a>
@@ -20,50 +22,59 @@ I work across the stack, from frontend interfaces and backend architecture to au
 
 ---
 
+## Beyond My Public Repositories
+
+### trACT Software — Full-Stack Developer Intern
+
+Built a nine-page marketing website and custom CMS, alongside account-management and analytics dashboards. My work included permission-based account invitations, authentication, and a daily analytics pipeline backed by AWS S3. I also worked on containerizing and deploying the application to AWS.
+
+`Next.js` `TypeScript` `Payload CMS` `PostgreSQL` `AWS` `Docker`
+
+### 3D Western — Full-Stack Developer
+
+Developed an eight-page marketing website with a custom CMS containing 18 collections, allowing the team to manage its own content. Built an automated Instagram content integration and implemented client-side caching.
+
+`Next.js` `Payload CMS` `Tailwind CSS` `SWR` `Meta API`
+
+### Not404 — Hack Western 13
+
+Built a 3D navigation platform with three teammates to make unfamiliar buildings easier to navigate. Our system takes LiDAR scans from an iPhone, transforms point clouds into GLB models, and lets users explore spaces, create routes, and share maps through events and invite links.
+
+I focused on backend architecture, data storage, authenticated APIs, and the integration of Gemini for AI-assisted room analysis.
+
+`Next.js` `PostgreSQL` `Drizzle` `Auth0` `LiDAR` `Gemini`
+
+### Childcan — Senior Frontend Developer, Tethos
+
+Co-led frontend development on a seven-person team building a website for a nonprofit supporting children affected by cancer and their families.
+
+`Frontend Development` `Team Collaboration` `Nonprofit`
+
+## Personal Projects & Experiments
+
+| Project | What I built |
+| :--- | :--- |
+| **Home Server** | My own Ubuntu server for self-hosted applications, Docker deployments, reverse proxies, private networking, and DNS. |
+| **SwingSync** | A Java Swing hot-reloading tool that uses reflection and custom class loaders to reload interfaces during development. |
+| **Party Islands** | A LAN multiplayer Java game with UDP-based lobby discovery and multiplayer synchronization. |
+| **[Personal Portfolio](https://samdeitz.ca)** | A desktop-inspired web experience with a custom window manager, taskbar, search, themes, and an interactive terminal. |
+
 ## Tech Stack
 
 | Area | Technologies |
 | :--- | :--- |
 | **Languages** | TypeScript · JavaScript · Java · C · Python · SQL |
 | **Frontend** | React · Next.js · Svelte · Tailwind CSS · Radix UI |
-| **Backend** | Node.js · Payload CMS · PostgreSQL · REST APIs · Server Actions |
-| **Infrastructure** | Docker · AWS EC2 · S3 · RDS · Caddy · Nginx · Tailscale · Linux |
-| **Tools** | Git · GitHub · Neovim · Figma · Vercel |
+| **Backend** | Node.js · Payload CMS · PostgreSQL · REST APIs · Drizzle |
+| **Infrastructure** | Linux · Docker · AWS (EC2, S3, RDS, SES) · Caddy · Nginx · Tailscale |
+| **Tools** | Git · GitHub Actions · Neovim · Figma · Vercel |
 
-## Currently Working On
+## What I'm Exploring
 
-- Building full-stack applications with Next.js, TypeScript, and Payload CMS.
-- Developing custom analytics and account-management systems.
-- Experimenting with self-hosting, containerization, and Linux servers.
-
-## Selected Projects
-
-### Home Server
-Self-hosted Ubuntu server running containerized applications and services with Docker, Caddy, Docker networking, and Tailscale.
-
-`Linux` `Docker` `Caddy` `Tailscale`
-
-### SwingSync
-Java Swing hot-reloading tool that watches compiled classes and dynamically reloads interfaces using reflection and custom class loaders.
-
-`Java` `Swing` `Reflection` `Class Loading`
-
-### Party Islands
-LAN multiplayer Java application featuring UDP lobby discovery, multiplayer synchronization, and event-driven window management.
-
-`Java` `UDP` `Networking` `Swing`
-
-### [Personal Portfolio](https://samdeitz.ca)
-Desktop-inspired portfolio featuring a custom window manager, taskbar, search system, themes, and an interactive terminal.
-
-`React` `Frontend Development` `UI Design`
-
-## Experience
-
-- **Web Development:** Full website migrations, redesigns, and responsive frontend development.
-- **Backend Systems:** Headless CMS architecture, authentication, permissions, and content management for non-technical users.
-- **Data & Infrastructure:** Analytics dashboards, data pipelines, AWS infrastructure, and deployment.
+- Building and deploying reliable, maintainable full-stack applications.
+- Going deeper into networking, operating systems, and computer architecture.
+- Improving my self-hosted infrastructure and building developer tools around it.
 
 ---
 
-<sub>Always learning, building, and experimenting with new technology.</sub>
+<sub>More about me and my work at <a href="https://samdeitz.ca">samdeitz.ca</a>.</sub>
